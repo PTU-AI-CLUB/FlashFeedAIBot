@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback, or issues, feel free to contact us at [ts.sathyakrishnan2002@gmail.com](mailto:ts.sathyakrishnan2002@gmail.com) or open an issue in this repository.
+If you have any questions, feedback, or issues, feel free to contact us at [ai-club@ptuniv.edu.in](mailto:ai-club@ptuniv.edu.in) or open an issue in this repository.
 
 Happy news reading with FlashFeedAIBot! 📰🤖
